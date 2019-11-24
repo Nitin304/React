@@ -1,5 +1,6 @@
 This project is sample Monsters App, which shows data from the below API's in a grid using React.
-
+1. https://jsonplaceholder.typicode.com/users
+2. https://robohash.org/8?set=set2&size=180x180
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
