@@ -3,7 +3,7 @@ This project is sample Monsters App, which shows data from the below API's in a 
 2. https://robohash.org/8?set=set2&size=180x180
 
 Enjoy developing.
-If you like this, you can buy me a drink on https://www.paypal.me/nitzaro
+If you like this, you can buy me a drink on https://www.paypal.me/nitzaro.
 Cheers. 
 
 
